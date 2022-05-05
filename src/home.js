@@ -6,7 +6,7 @@ const heroSection = () => {
             <h1 className="text-3xl">Hi there 👋</h1>
             <h2 className="text-6xl my-5">I'm Evans Wanjau</h2>
             <p className="w-1/2 mx-auto mt-10">
-                A passionate Software Enginner focused on designing and
+                A passionate Software Enginnrer focused on designing and
                 developing for the internet. I'm currently focused on building
                 easy to use applications that solve world related problems one
                 line of code at a time.
@@ -61,7 +61,7 @@ const aboutSection = () => {
             <h2 className="text-1xl">ABOUT ME</h2>
             <p className="w-2/3 mx-auto m-5">
                 I love looking for opportunities and challenges that make me a
-                better programmer and a whole hearted human being. I recently
+                better programmer and a whole-hearted human being. I recently
                 gained an interest in Blockchain Security and Risk management
                 systems for blockchain networks, so you might find me writing
                 about it on{" "}
@@ -120,8 +120,7 @@ const workSection = () => {
                                 CASPAD
                             </h5>
                             <p class="text-justify">
-                                An AI driven platform that analyses poor/high
-                                quality audio/video data, using moderated
+                                An AI-driven platform that analyses poor/high-quality audio/video data, using moderated
                                 engines converts it into clean accurate
                                 transcriptions/ captions.
                             </p>
@@ -149,7 +148,7 @@ const workSection = () => {
                                 Nemit is a company that provides aqua and
                                 construction solutions. I collaborated in the
                                 development of a water monitoring tool that
-                                notified stake holders when water levels were
+                                notified stakeholders when water levels were
                                 low.
                             </p>
                             <p className="mx-auto my-10 font-bold">
