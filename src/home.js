@@ -6,7 +6,7 @@ const heroSection = () => {
             <h1 className="text-3xl">Hi there 👋</h1>
             <h2 className="text-6xl my-5">I'm Evans Wanjau</h2>
             <p className="w-1/2 mx-auto mt-10">
-                A passionate Software Enginnrer focused on designing and
+                A passionate Software Engineer focused on designing and
                 developing for the internet. I'm currently focused on building
                 easy to use applications that solve world related problems one
                 line of code at a time.
