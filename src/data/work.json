@@ -1,0 +1,30 @@
+[
+    {
+        "name": "BEAM-AI",
+        "description": "An image colorizer built on Deep AI's technology",
+        "about": "A colorizer application build on Deep AI technology that transforms your old black and white photos into beautiful colorized photos that you can share with friends and loved ones.",
+        "stacks": ["reactjs", "tailwind", "nodejs", "fastify"],
+        "link": "https://beam-ai.onrender.com"
+    },
+    {
+        "name": "WAPIDOC WEB",
+        "description": "A location based, healthcare listing platform.",
+        "about": "A platform that connects the physical and digital world by providing easy and efficient access to health care providers, services and products with the push of a button.",
+        "stacks": ["reactjs", "material-ui", "nodejs"],
+        "link": "https://wapidoc.com"
+    },
+    {
+        "name": "WAPIDOC APP",
+        "description": "A location based, healthcare listing mobile app.",
+        "about": "A mobile app that allows users/patients to find healthcare providers, services and products closest to them with helpful information to make the right decisions.",
+        "stacks": ["android", "kotlin"],
+        "link": "https://play.google.com/store/apps/details?id=com.wapidoc.app"
+    },
+    {
+        "name": "CASPAD",
+        "description": "A location based healthcare directory",
+        "about": "An AI-driven platform that analyses poor/high-quality audio/video data, using moderated engines and converts it into clean accurate transcriptions/captions.",
+        "stacks": ["laravel", "html", "css"],
+        "link": "https://caspad.com"
+    }
+]
