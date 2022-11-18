@@ -45,7 +45,7 @@ export const AboutSection = () => {
                     </p>
                     <p className="text-justify md:text-left text-sm my-5 leading-relaxed">
                         When I'm not pushing pixels, you'll find me playing
-                        chess, reading a good book or paying basketball.
+                        chess, reading a good book or playing basketball.
                     </p>
                 </Slide>
             </div>

@@ -13,6 +13,7 @@
         "@types/react-dom": "^18.0.9",
         "@types/scrollreveal": "^0.0.8",
         "framer-motion": "^6.3.3",
+        "netlify-cli": "^12.2.1",
         "react": "^18.1.0",
         "react-dom": "^18.1.0",
         "react-reveal": "^1.2.2",
