@@ -2,7 +2,7 @@
     {
         "name": "BEAM-AI",
         "description": "An image colorizer built on Deep AI's technology",
-        "about": "A colorizer application build on Deep AI technology that transforms your old black and white photos into beautiful colorized photos that you can share with friends and loved ones.",
+        "about": "A colorizer application built on Deep AI technology that transforms your old black and white photos into beautiful colorized photos that you can share with friends and loved ones.",
         "stacks": ["reactjs", "tailwind", "nodejs", "fastify"],
         "link": "https://beam-ai.onrender.com"
     },
@@ -22,7 +22,7 @@
     },
     {
         "name": "CASPAD",
-        "description": "A location based healthcare directory",
+        "description": "An AI driven transcription and captioning platform.",
         "about": "An AI-driven platform that analyses poor/high-quality audio/video data, using moderated engines and converts it into clean accurate transcriptions/captions.",
         "stacks": ["laravel", "html", "css"],
         "link": "https://caspad.com"
