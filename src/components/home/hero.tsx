@@ -1,4 +1,5 @@
 import { Slide, Fade } from "react-reveal";
+import { Link } from "react-scroll";
 
 export const HeroSection = () => {
     return (
@@ -29,7 +30,9 @@ export const HeroSection = () => {
                         type="button"
                         className="button my-5 text-yellow-300 hover:text-zinc-900 border border-yellow-300 hover:bg-yellow-300 focus:ring-1 focus:outline-none focus:ring-yellow-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:border-yellow-600 dark:text-yellow-600 dark:hover:text-white dark:hover:bg-yellow-600 dark:focus:ring-yellow-800"
                     >
-                        <a href="#work">Checkout my work</a>
+                        <Link to="work" spy={true} smooth={true}>
+                            Checkout my work
+                        </Link>
                     </button>
                 </Fade>
             </div>
